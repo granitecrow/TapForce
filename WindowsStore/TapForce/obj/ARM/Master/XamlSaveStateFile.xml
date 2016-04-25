@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\tapforce\assembly-csharp.dll" HashGuid="84f2d68e-1643-6b01-f9f0-dfd2809dee6a" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\players\windows81\arm\master\bridgeinterface.winmd" HashGuid="237874db-2c4a-0583-2acc-dc22cb686817" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\tapforce\unityengine.dll" HashGuid="958ab2fd-6c40-d605-c248-a2eee9fbf164" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\tapforce\unityengine.networking.dll" HashGuid="54ff9906-4ea1-03c5-8a6c-44d75b15f53b" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\tapforce\unityengine.ui.dll" HashGuid="10744114-9e45-6ff0-09ea-e968abd18e3e" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\players\windows81\arm\master\unityenginedelegates.winmd" HashGuid="d5bfa646-8453-25f8-b5ef-24280c447d94" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\players\windows81\arm\master\unityengineproxy.dll" HashGuid="15d0532d-f5f5-bc8e-3a59-3bdc391dd77a" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\players\windows81\arm\master\unityplayer.winmd" HashGuid="263b17cb-a7fc-b30d-7a89-361aa3f3d9aa" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\players\windows81\arm\master\winrtbridge.winmd" HashGuid="0981cb3d-0cdf-57d3-cfa4-84ca2eb2f384" />
+    <ReferenceAssembly PathName="c:\users\jeffrey.cusato\documents\unity projects\flappyamc\windowsstore\tapforce\winrtlegacy.dll" HashGuid="8b690407-625c-5359-3acd-473c8beac8e8" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
